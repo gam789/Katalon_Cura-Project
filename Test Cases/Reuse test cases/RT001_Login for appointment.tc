@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login using credentials</description>
+   <name>RT001_Login for appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df29d15f-a785-4d0b-9f4a-e458ce964f53</testCaseGuid>
+</TestCaseEntity>
